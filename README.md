@@ -26,7 +26,7 @@
   <br/>
     <br>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp,flutter,dart,java,php,apple,androidstudio,github,idea" alt="My Skills" />
+        <img src="https://skillicons.dev/icons?i=cpp,flutter,dart,java,php,apple,androidstudio,idea,github" alt="My Skills" />
     </a>
 </div>
 <br/>
