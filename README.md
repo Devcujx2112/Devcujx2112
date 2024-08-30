@@ -19,7 +19,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100025377165179) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Devcujx) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tungdvu) 
 
 
-## Skills:
+##  📊 Skills:
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devcujx2112&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
@@ -29,11 +29,12 @@
         <img src="https://skillicons.dev/icons?i=cpp,flutter,dart,java,php,apple,androidstudio,github,idea" alt="My Skills" />
     </a>
 </div>
+<br/>
+<br>
 
 
 
 
-## python 
 <div align="center">
   <img src="https://github.com/Devcujx2112/Devcujx2112/blob/output/github-contribution-grid-snake.gif" alt="snake gif" />
 </div>
