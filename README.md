@@ -10,7 +10,7 @@
 > 
 > ✍ **I’m currently learning Flutter.**
 >
-> 💼 **Dev.duongvu2112@gmail.com**
+> 💼 **dev.duongvu2112@gmail.com**
 
 <br/>
 
