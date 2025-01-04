@@ -6,9 +6,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Devcujx2112.Devcujx2112" />
 <br/>
 
-> 👀 <span style="color: white;">I'm interested in cross platform app development.</span>
->
-> 💼 **dev.duongvu2112@gmail.com**
+- 👀 **I'm interested in cross platform app development**
+- 💼 **dev.duongvu2112@gmail.com**
 
 <br/>
 
