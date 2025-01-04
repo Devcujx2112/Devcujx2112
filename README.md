@@ -7,7 +7,6 @@
 <br/>
 
 > 👀 **I'm interested in cross platform app development.**
-> 
 >
 > 💼 **dev.duongvu2112@gmail.com**
 
