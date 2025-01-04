@@ -6,7 +6,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Devcujx2112.Devcujx2112" />
 <br/>
 
-- 👀 **I’m interested in game developing**
+> 👀 **I’m interested in game developing**
 >
 > 💼 **dev.duongvu2112@gmail.com**
 
