@@ -7,7 +7,9 @@
 <br/>
 
 - 👀 **I'm interested in cross platform app development**
+- >
 - 🌱 **I’m currently learning Flutter and Android**
+>
 - 💼 **dev.duongvu2112@gmail.com**
 
 <br/>
