@@ -6,9 +6,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Devcujx2112.Devcujx2112" />
 <br/>
 
-> 👀 **I'm interested in software development.**
+> 👀 **I'm interested in cross-platform app development.**
 > 
-> ✍ **I’m currently learning Flutter.**
 >
 > 💼 **dev.duongvu2112@gmail.com**
 
