@@ -8,7 +8,7 @@
 
 - 👀 **I'm interested in cross platform app development**
 >
-- 🌱 **I’m currently learning Flutter, Android and React Native**
+- 🌱 **I’m currently learning Flutter, Design Pattern and Solid **
 >
 - 💼 **dev.duongvu2112@gmail.com**
 
