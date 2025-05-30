@@ -8,7 +8,7 @@
 
 - 👀 **I'm interested in cross platform app development**
 >
-- 🌱 **I’m currently learning Mobile App**
+- 🌱 **I’m currently focused on learning how to build mobile applications.**
 >
 - 💼 **dev.duongvu2112@gmail.com**
 
