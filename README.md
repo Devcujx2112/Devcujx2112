@@ -20,8 +20,6 @@
 
 <br/>
 <br>
-
-
 <div align="center">
   <img src="https://github.com/Devcujx2112/Devcujx2112/blob/output/github-contribution-grid-snake.gif" alt="snake gif" />
 </div>
