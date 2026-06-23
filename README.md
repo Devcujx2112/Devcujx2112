@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tung Duong</h1>
 
-<h3 align="center">Flutter Mobile Developer from Vietnam 🇻🇳</h3>
+<h3 align="center">Software Engineer from Vietnam 🇻🇳</h3>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Devcujx2112.Devcujx2112" />
 
