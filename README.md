@@ -7,9 +7,11 @@
 <br/>
 
 - 📱 **Flutter Mobile Developer passionate about building modern cross-platform applications**
+
 - 🚀 **Currently expanding my expertise in Backend Development with Spring Boot**
-- 🌱 **Continuously learning Mobile Architecture, Clean Architecture, and System Design**
+
 - 💼 **Open to collaboration on Flutter and Mobile Development projects**
+
 - 📫 **Reach me at: dev.duongvu2112@gmail.com**
 
 <br/>
